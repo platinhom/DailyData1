@@ -1,0 +1,21 @@
+REMARK  AREAS  100.933
+REMARK  VOLUMES  80.656
+REMARK  AREA   H             45.098650
+REMARK  AREA   C             33.039874
+REMARK  AREA   N              0.000000
+REMARK  AREA   O              0.000000
+REMARK  AREA   F              0.000000
+REMARK  AREA   S             22.794470
+REMARK  AREA   P              0.000000
+REMARK  AREA  CL              0.000000
+REMARK  AREA  BR              0.000000
+REMARK  AREA   I              0.000000
+ATOM      1  C1  MOL     1       0.719  -1.258   0.000 -0.0970  1.7000       C        cc      8.3253
+ATOM      2  H1  MOL     1       1.316  -2.150   0.000  0.1342  1.3000       H        ha     11.4728
+ATOM      3  C2  MOL     1      -0.719  -1.258   0.000 -0.0970  1.7000       C        cc      7.7681
+ATOM      4  H2  MOL     1      -1.316  -2.150   0.000  0.1342  1.3000       H        ha     11.1619
+ATOM      5  C3  MOL     1      -1.234  -0.016   0.000 -0.2737  1.7000       C        cd      8.4476
+ATOM      6  H3  MOL     1      -2.267   0.266   0.000  0.2255  1.3000       H        h4     11.2485
+ATOM      7  S1  MOL     1       0.000   1.191   0.000  0.0218  1.8000       S        ss     22.7944
+ATOM      8  C4  MOL     1       1.234  -0.016   0.000 -0.2737  1.7000       C        cd      8.4987
+ATOM      9  H4  MOL     1       2.267   0.266   0.000  0.2255  1.3000       H        h4     11.2153

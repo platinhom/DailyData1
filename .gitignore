@@ -8,6 +8,7 @@
 .iws
 *~
 ~*
+.~*
 *.diff
 *.patch
 *.bak
