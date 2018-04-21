@@ -1,0 +1,214 @@
+AID	Panel ID	SID	CID	Activity	AC Value (micromolar)	AC Name	BioAssay Name	Protein Accession	Target Name	Outcome Method	PubMed ID	GeneID	Target Count (active)	Target Count (tested)
+326468	0	103577973	44457253	Unspecified	87	IC50	Inhibition of purified human recombinant IDO expressed in TREx cells	P14902		Confirmatory	18318466	3620	1	1
+326468	0	103578066	44457280	Active	6.8	IC50	Inhibition of purified human recombinant IDO expressed in TREx cells	P14902		Confirmatory	18318466	3620	1	1
+326468	0	103578107	12239942	Unspecified	69	IC50	Inhibition of purified human recombinant IDO expressed in TREx cells	P14902		Confirmatory	18318466	3620	1	1
+439709	0	103700376	44597277	Unspecified	2	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	0	1
+439709	0	103700375	44597276	Unspecified	2	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	0	1
+439709	0	103700374	44597275	Unspecified	2	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700368	44597169	Unspecified	2	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	0	1
+439709	0	103700369	44597274	Unspecified	2	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	0	1
+439709	0	103700367	44597383	Active	0.012	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700349	11978742	Active	0.019	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	2	4
+439709	0	103700337	11978624	Active	0.97	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700336	11978623	Active	6.8	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700335	44597278	Active	0.225	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700403	11978510	Active	1.5	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700399	5367120	Active	0.49	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	2	509
+439709	0	103700398	5755869	Active	1	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700272	11977838	Active	0.054	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700255	5852646	Active	0.12	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	3	460
+439709	0	103700254	11977720	Active	0.017	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700211	11978511	Active	0.019	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700216	5827772	Active	2.4	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+439709	0	103700213	11955091	Active	0.27	IC50	Inhibition of indoleamine 2,3-dioxygenase in IFN-gamma-stimulated human HeLa cells assessed as kynurenine formation by spectrophotometry	P14902		Confirmatory	19507862	3620	1	1
+443996	0	103206639	3037	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	57	529
+443996	0	103469191	137153	Unspecified	70	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	3	5
+443996	0	103469261	9942176	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	4
+443996	0	103481509	11305	Active	10	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	2	3
+443996	0	103608312	416002	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	6	6
+443996	0	103579834	676159	Unspecified	90	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	2	4
+443996	0	318464308	44465701	Active	25	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	318464309	46180669	Unspecified	50	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707586	45487202	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707587	44466195	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707593	3266369	Active	7	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	2	3
+443996	0	103707543	45487187	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	0	3
+443996	0	103707532	45487181	Unspecified	50	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	3	3
+443996	0	103707552	17815	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707520	3000729	Active	4	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	21	455
+443996	0	103707597	45487209	Unspecified	50	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707631	45487219	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+443996	0	103707632	44465702	Active	12.5	IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	2	3
+443996	0	103707642	44465947	Inconclusive		IC50	Inhibition of human recombinant IDO expressed in HEK293 cells assessed as blockade of tryptophan degradation by HPLC	P14902		Confirmatory	20055453	3620	1	3
+502207	0	103174559	66036	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	9
+502207	0	103346959	7815	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	2
+502207	0	103677340	2818221	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	9
+502207	0	103755328	735843	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	103623743	67430	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	10
+502207	0	104245411	118986	Active	1.1	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245413	7400	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	27
+502207	0	104245345	80407	Active	9.4	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245344	78252	Active	6.5	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245343	85171	Active	1.9	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245346	95756	Active	4.6	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245342	7509	Active	13	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	3	27
+502207	0	104245341	580759	Active	15	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245340	80409	Active	1.1	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245339	13397	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245338	1484508	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	2	465
+502207	0	104245337	12398786	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	123083298	23664783	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245273	12398790	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245272	49866160	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245271	49866159	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245270	49866157	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245269	14736078	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245268	2830968	Active	7.3	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245267	15945669	Active	1.1	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	18	457
+502207	0	104245266	49866155	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245180	2732069	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245181	24192237	Unspecified	10	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245179	78062	Active	2.2	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245178	49866094	Active	2.6	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245177	13885856	Active	10	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245176	49866093	Active	1.2	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245175	49866092	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245174	49866091	Unspecified	20	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502207	0	104245173	49866090	Active	2.5	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245096	12465608	Active	0.8	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245097	12526770	Active	6.8	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	8
+502207	0	104245095	2803022	Active	2	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245093	13266247	Active	1.4	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245094	68342	Active	0.6	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	1	1
+502207	0	104245092	199161	Active	4.8	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	10	449
+502207	0	104245091	10852	Unspecified	10	IC50	Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production	P14902		Confirmatory	20688518	3620	0	1
+502209	0	104245094	68342	Active			Inhibition of indoleamine-2,3-dioxygenase in human A431 cells assessed as inhibition of IFN-gamma-stimulated kynurenine production at 10 uM	P14902		Literature	20688518	3620	1	1
+625728	0	136931981	9920916	Active	31.6	IC50	Inhibition of indoleamine-2,3-dioxygenase in human HEK293 cells assessed as N-formylkynurenine level after 5 hrs by spectrophotometric analysis	P14902		Confirmatory	21925773	3620	2	4
+625728	0	136925553	9964258	Active	19.3	IC50	Inhibition of indoleamine-2,3-dioxygenase in human HEK293 cells assessed as N-formylkynurenine level after 5 hrs by spectrophotometric analysis	P14902		Confirmatory	21925773	3620	2	4
+625728	0	103469191	137153	Unspecified	251.2	IC50	Inhibition of indoleamine-2,3-dioxygenase in human HEK293 cells assessed as N-formylkynurenine level after 5 hrs by spectrophotometric analysis	P14902		Confirmatory	21925773	3620	3	5
+625731	0	136925553	9964258	Unspecified			Ratio of IC50 for human recombinant indoleamine-2,3-dioxygenase expressed in Escherichia coli BL21 to IC50 for indoleamine-2,3-dioxygenase in human HEK293 cells	P14902		Literature	21925773	3620	2	4
+625731	0	136931981	9920916	Unspecified			Ratio of IC50 for human recombinant indoleamine-2,3-dioxygenase expressed in Escherichia coli BL21 to IC50 for indoleamine-2,3-dioxygenase in human HEK293 cells	P14902		Literature	21925773	3620	2	4
+687187	0	163323341	60156094	Active	7	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	134455312	53391942	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	20
+687187	0	136944953	9877471	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163319923	60154725	Active	34	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163330210	11694196	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163337166	60156092	Active	3.5	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469191	137153	Active	8.9	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	136925553	9964258	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163323342	60156095	Unspecified	56	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469199	9877511	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	163326740	11275256	Active	2.9	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163313023	9920458	Active	1.7	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163316429	19702149	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103700349	11978742	Active	0.06	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163326741	21723626	Active	24	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163326739	6409664	Active	0.62	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163337167	22009901	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163333759	60156093	Active	2.9	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469231	9964175	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	163323340	60156091	Active	1.1	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469230	9815283	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	103469241	6400901	Active	0.94	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	136931981	9920916	Active	2.6	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469198	9812842	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	3	5
+687187	0	163333758	9899225	Active	9	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163313039	60154726	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163333760	9920462	Unspecified	70	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163337181	60154723	Active	0.08	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	103469265	6419227	Active	7	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	4	6
+687187	0	163319922	60154724	Active	14	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687187	0	163330209	71458329	Unspecified	100	IC50	Inhibition of human IDO1 transfected in mouse P815B clone-6 cells by HPLC analysis	P14902		Confirmatory	22616902	3620	2	4
+687192	0	103469241	6400901	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	103469198	9812842	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	163333758	9899225	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	136931981	9920916	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163337167	22009901	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163326739	6409664	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163326740	11275256	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163313023	9920458	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163316429	19702149	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103469199	9877511	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	163323342	60156095	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103469230	9815283	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	163330209	71458329	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163337166	60156092	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163330210	11694196	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	136944953	9877471	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163319923	60154725	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163323341	60156094	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	134455312	53391942	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	20
+687192	0	163333760	9920462	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163313039	60154726	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103700349	11978742	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163326741	21723626	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	136925553	9964258	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103469191	137153	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	163323340	60156091	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103469231	9964175	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	3	5
+687192	0	163319922	60154724	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	103469265	6419227	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	4	6
+687192	0	163333759	60156093	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+687192	0	163337181	60154723	Active			Inhibition of human IDO1 transfected in HEK293 clone 6 cells by HPLC analysis	P14902		Literature	22616902	3620	2	4
+1053471	0	103579834	676159	Active	18.4	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	2	4
+1053471	0	194144982	478645	Inconclusive		IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	0	1
+1053471	0	164133841	13762869	Active	0.779	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	103274177	73549	Active	0.0537	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	26	475
+1053471	0	103273712	478572	Active	0.0539	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	194172644	76327995	Active	0.185	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	103274195	478573	Active	1.8e-05	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	2
+1053471	0	103753306	478574	Active	0.023	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	26	361
+1053471	0	194172643	76327994	Inconclusive		IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	0	1
+1053471	0	194138110	478647	Active	0.0271	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	103273979	478577	Inconclusive		IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	0	4
+1053471	0	123091071	336270	Active	0.183	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	4
+1053471	0	194158814	76320783	Active	0.0243	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	194151840	478643	Active	0.466	IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	1	1
+1053471	0	194158815	66556723	Inactive		IC50	Inhibition of human IDO1 expressed in HEK293 cells assessed as kynurenine release after 5 hrs by spectrophotometry	P14902		Confirmatory	24099220	3620	0	1
+1053475	0	103579834	676159	Unspecified	200	IC50	Inhibition of human IDO1-mediated tryptophan degradation expressed in human tumor cells	P14902		Confirmatory	24099220	3620	2	4
+1059424	0	136923600	11988	Unspecified	62.3	IC50	Inhibition of human IDO1 expressed in mouse LLTC cells using L-tryptophan as substrate after 24 hrs	P14902		Confirmatory	24262887	3620	2	10
+1059424	0	103589702	7516	Active	1.3	IC50	Inhibition of human IDO1 expressed in mouse LLTC cells using L-tryptophan as substrate after 24 hrs	P14902		Confirmatory	24262887	3620	18	176
+1159506	0	160775838		Unspecified			Identification of proteins required for the processing of the EWS-FLI1 nascent transcript			Other		3620		
+1159506	0	160775839		Unspecified			Identification of proteins required for the processing of the EWS-FLI1 nascent transcript			Other		3620		
+1159506	0	160731137		Unspecified			Identification of proteins required for the processing of the EWS-FLI1 nascent transcript			Other		3620		
+1166641	0	312359143	74221589	Active	0.1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1166641	0	312359148	75203175	Active	0.1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1166641	0	312359147	75203053	Active	0.1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1166641	0	312359144	75202661	Active	0.1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1166641	0	312359145	75202920	Active	1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1166641	0	312359146	75202926	Active	1	IC50	Inhibition of intracellular IDO1 activity in human HeLa cells assessed as L-kynurenine production by Ehrlichs test	P14902		Confirmatory	25264478	3620	1	1
+1180155	0	312347390	118706839	Active	0.181	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347387	118706837	Unspecified	10	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347399	118706847	Active	0.13	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347396	118706844	Active	2.494	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347513	118706947	Active	0.465	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347516	118706950	Active	0.152	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347393	118706841	Active	0.085	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347382	118706833	Active	7.846	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347514	118706948	Active	0.187	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347385	795453	Unspecified	10	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	7
+1180155	0	312347388	118706838	Active	1.393	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347517	118706951	Active	0.172	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347508	118706944	Active	0.508	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347511	4638522	Active	0.64	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347402	118706850	Unspecified	10	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347391	8005342	Active	0.609	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347394	118706842	Unspecified	10	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347383	118706834	Active	3.404	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347512	118706946	Active	0.134	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347389	3595344	Active	3.118	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347386	118706836	Active	1.171	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347401	118706849	Active	2.229	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312346843	118706416	Active	0.271	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347510	118706945	Active	0.374	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347398	118706846	Active	0.187	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347384	118706835	Active	0.296	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	242155139	4794706	Active	0.241	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	14	358
+1180155	0	312347392	118706840	Active	0.142	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347395	118706843	Active	7.563	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347403	118706851	Active	0.35	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347397	118706845	Active	2.588	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347509	3325609	Active	0.128	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347400	118706848	Active	0.084	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312347515	118706949	Active	0.183	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
+1180155	0	312346842	4240303	Unspecified	0.01	EC50	Inhibition of IDO in human HeLa cells after 24 hrs by spectrophotometry	P14902		Confirmatory	24939758	3620	1	1
