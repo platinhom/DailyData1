@@ -115,19 +115,24 @@ mol = pmpf.MolFromPDBFile(fname)
 if len(sys.argv) == 2:
     mol = pmpf.MolMatchBondByMol2File(deleney+'.mol2')
     smiles = Chem.MolToSmiles(Chem.RemoveHs(mol,updateExplicitCount=True))
+    ReallogS = -9999.999
 elif len(sys.argv) > 2:
     import csv
     linecount = 0
     with open(sys.argv[2],'rb') as csvfile:
         csvread = csv.reader(csvfile)
+        ReallogS = -9999.999
         for row in csvread:
             if deleneynum == linecount:
                 smiles = row[9]
+                ReallogS = float(row[8])
                 break
             linecount += 1
         mol = pmpf.MolMatchBondBySmiles(smiles)
-
+        
 pmpf.SetMolProp(smiles, 'SMILES', ptype='s', plen=10)
+if ReallogS != -9999.999:
+    pmpf.SetMolProp(ReallogS, 'ExpLogS', ptype='f', plen=10, floatPoint=3)
 
 atomtype="AT_gaff"
 AtomDatas, MolDatas= ProcessPQRTA(bname[0]+'.pqrta', atomtype=atomtype,charge="resp", radius="mbondi")
